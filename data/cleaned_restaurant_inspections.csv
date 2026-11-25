@@ -1,0 +1,601 @@
+inspection_id,restaurant_name,borough,cuisine_type,inspection_date,score,grade,violations_count,violations_count_was_missing,score_was_invalid
+1000,Restaurant 32,Bronx,Mexican,2023-10-20,51,Not Yet Graded,6,False,False
+1001,Restaurant 130,Bronx,American,2022-11-23,32,A,7,False,False
+1002,Restaurant 156,Staten Island,Japanese,2023-09-25,11,A,10,False,False
+1003,Restaurant 130,Bronx,Mexican,2022-02-23,41,A,8,False,False
+1004,Restaurant 294,Brooklyn,American,2024-10-22,40,A,6,False,False
+1005,Restaurant 161,Manhattan,Chinese,2023-07-18,26,B,6,False,False
+1006,Restaurant 122,Queens,Chinese,2024-04-25,24,A,6,False,False
+1007,Restaurant 274,Queens,American,2021-09-13,19,B,1,False,False
+1008,Restaurant 173,Queens,American,2022-02-10,18,A,5,False,False
+1009,Restaurant 93,Brooklyn,Chinese,2022-02-13,47,C,2,False,False
+1010,Restaurant 162,Staten Island,Japanese,2021-08-17,43,B,2,False,False
+1011,Restaurant 173,Bronx,Indian,2023-10-06,10,B,6,True,False
+1012,Restaurant 207,Queens,Mexican,2021-02-16,3,C,5,False,False
+1013,Restaurant 297,Queens,Italian,2022-02-18,49,B,8,False,False
+1014,Restaurant 254,Brooklyn,Indian,2021-04-23,58,A,9,False,False
+1015,Restaurant 218,Queens,Chinese,2024-12-05,56,A,2,False,False
+1016,Restaurant 312,Queens,Italian,2023-05-08,20,B,11,False,False
+1017,Restaurant 312,Manhattan,Chinese,2024-10-09,35,A,11,False,False
+1018,Restaurant 5,Brooklyn,Italian,2021-06-06,58,B,9,False,False
+1019,Restaurant 152,Manhattan,Pizza,2022-12-15,23,B,7,False,False
+1020,Restaurant 194,Staten Island,Japanese,2022-09-22,44,C,6,True,False
+1021,Restaurant 164,Brooklyn,Chinese,2021-10-17,27,C,4,False,False
+1022,Restaurant 336,Staten Island,Mexican,2024-02-24,14,C,2,False,False
+1023,Restaurant 288,Staten Island,Pizza,2021-01-07,35,A,0,False,False
+1024,Restaurant 181,Bronx,American,2023-01-14,19,C,7,False,False
+1025,Restaurant 200,Brooklyn,Italian,2023-05-25,55,A,1,False,False
+1026,Restaurant 112,Staten Island,Japanese,2022-07-27,38,B,8,False,False
+1027,Restaurant 224,Manhattan,Mexican,2022-09-09,9,A,4,False,False
+1028,Restaurant 235,Staten Island,Mexican,2021-10-15,19,B,2,False,False
+1029,Restaurant 257,Queens,Mexican,2021-03-07,55,B,11,False,False
+1030,Restaurant 142,Queens,Japanese,2021-02-15,47,B,0,False,False
+1031,Restaurant 200,Bronx,Japanese,2024-11-04,55,C,1,False,False
+1032,Restaurant 322,Bronx,Indian,2024-05-15,20,A,1,False,False
+1033,Restaurant 327,Bronx,Italian,2023-11-02,10,A,11,False,False
+1034,Restaurant 95,Staten Island,Indian,2021-06-20,7,A,3,False,False
+1035,Restaurant 155,Queens,Japanese,2021-10-23,32,A,1,False,False
+1036,Restaurant 218,Manhattan,Pizza,2024-03-01,1,B,0,False,False
+1037,Restaurant 2,Staten Island,Pizza,2021-12-26,57,C,9,False,False
+1038,Restaurant 160,Brooklyn,Italian,2022-02-22,30,C,1,False,False
+1039,Restaurant 248,Bronx,Mexican,2023-05-05,4,B,1,False,False
+1040,Restaurant 190,Bronx,Indian,2022-07-15,34,A,1,False,False
+1041,Restaurant 52,Bronx,Pizza,2021-08-12,7,A,7,False,False
+1042,Restaurant 294,Brooklyn,Indian,2021-03-03,19,A,6,False,False
+1043,Restaurant 227,Bronx,Chinese,2023-12-14,20,A,8,False,False
+1044,Restaurant 256,Queens,Japanese,2021-01-24,18,A,6,True,False
+1045,Restaurant 198,Brooklyn,Chinese,2023-11-12,31,C,8,False,True
+1046,Restaurant 42,Queens,Italian,2024-10-11,26,B,6,True,False
+1047,Restaurant 224,Bronx,Mexican,2021-03-23,42,B,11,False,False
+1048,Restaurant 115,Manhattan,Japanese,2021-11-26,26,A,2,False,False
+1049,Restaurant 172,Bronx,Italian,2021-05-19,16,B,6,True,False
+1050,Restaurant 267,Bronx,Pizza,2024-05-14,55,C,10,False,False
+1051,Restaurant 204,Queens,Mexican,2022-03-01,6,B,7,False,False
+1052,Restaurant 324,Queens,Italian,2021-09-27,33,B,7,False,False
+1053,Restaurant 180,Bronx,Pizza,2024-06-18,46,B,1,False,False
+1054,Restaurant 344,Staten Island,Pizza,2022-12-14,38,B,11,False,False
+1055,Restaurant 26,Bronx,Italian,2021-01-02,33,C,6,True,False
+1056,Restaurant 326,Bronx,Indian,2022-01-25,46,C,5,False,False
+1057,Restaurant 2,Brooklyn,Mexican,2022-05-24,45,A,4,False,False
+1058,Restaurant 157,Brooklyn,Chinese,2022-09-12,53,A,9,False,False
+1059,Restaurant 143,Manhattan,Chinese,2023-03-14,51,C,1,False,False
+1060,Restaurant 194,Manhattan,Mexican,2024-10-14,38,Not Yet Graded,4,False,False
+1061,Restaurant 83,Staten Island,American,2023-11-07,59,A,3,False,False
+1062,Restaurant 22,Queens,Japanese,2023-09-07,47,Not Yet Graded,5,False,False
+1063,Restaurant 65,Brooklyn,American,2024-12-26,19,A,6,True,False
+1064,Restaurant 36,Queens,Pizza,2023-08-11,15,A,0,False,False
+1065,Restaurant 172,Brooklyn,American,2021-07-08,0,A,6,False,False
+1066,Restaurant 273,Queens,Chinese,2021-09-09,35,A,6,True,False
+1067,Restaurant 325,Staten Island,Chinese,2021-12-06,36,A,0,False,False
+1068,Restaurant 32,Queens,Indian,2023-08-13,31,C,3,False,True
+1069,Restaurant 89,Queens,Pizza,2024-07-22,54,A,7,False,False
+1070,Restaurant 288,Manhattan,Italian,2023-09-23,31,A,1,False,True
+1071,Restaurant 311,Brooklyn,Japanese,2023-04-01,40,Not Yet Graded,0,False,False
+1072,Restaurant 200,Staten Island,Pizza,2022-08-04,32,A,2,False,False
+1073,Restaurant 7,Manhattan,Japanese,2022-10-19,50,A,8,False,False
+1074,Restaurant 53,Queens,Mexican,2024-02-21,0,A,5,False,False
+1075,Restaurant 53,Brooklyn,Indian,2024-11-20,55,A,10,False,False
+1076,Restaurant 228,Bronx,Japanese,2024-10-14,34,C,5,False,False
+1077,Restaurant 9,Staten Island,Japanese,2024-07-16,55,B,4,False,False
+1078,Restaurant 24,Manhattan,American,2021-05-01,23,B,5,False,False
+1079,Restaurant 263,Brooklyn,Mexican,2021-02-02,58,A,5,False,False
+1080,Restaurant 309,Manhattan,Chinese,2021-12-17,17,C,4,False,False
+1081,Restaurant 49,Brooklyn,American,2024-01-07,48,A,1,False,False
+1082,Restaurant 259,Brooklyn,American,2023-12-12,24,A,4,False,False
+1083,Restaurant 93,Bronx,Indian,2022-07-24,3,C,4,False,False
+1084,Restaurant 104,Manhattan,Pizza,2022-11-07,53,A,4,False,False
+1085,Restaurant 44,Manhattan,Japanese,2021-11-01,8,A,1,False,False
+1086,Restaurant 26,Queens,American,2024-09-11,31,C,8,False,False
+1087,Restaurant 120,Staten Island,Italian,2023-03-25,39,A,6,True,False
+1088,Restaurant 153,Brooklyn,Pizza,2022-06-11,23,B,11,False,False
+1089,Restaurant 106,Bronx,Indian,2021-09-27,28,A,6,True,False
+1090,Restaurant 102,Staten Island,Japanese,2022-12-20,59,A,10,False,False
+1091,Restaurant 197,Queens,Japanese,2022-06-12,19,A,1,False,False
+1092,Restaurant 256,Bronx,Italian,2024-03-25,19,C,9,False,False
+1093,Restaurant 49,Brooklyn,Pizza,2021-07-17,44,Not Yet Graded,3,False,False
+1094,Restaurant 182,Brooklyn,Indian,2022-06-05,1,B,10,False,False
+1095,Restaurant 191,Queens,Japanese,2021-12-27,48,C,8,False,False
+1096,Unknown,Queens,Chinese,2022-05-08,38,B,6,False,False
+1097,Restaurant 59,Manhattan,Mexican,2024-02-11,8,A,11,False,False
+1098,Restaurant 140,Bronx,Pizza,2021-04-13,58,B,8,False,False
+1099,Restaurant 291,Manhattan,Mexican,2023-01-27,14,Not Yet Graded,6,False,False
+1100,Restaurant 112,Brooklyn,Mexican,2022-10-19,25,A,4,False,False
+1101,Restaurant 113,Bronx,Chinese,2024-04-05,13,A,6,True,False
+1102,Restaurant 187,Brooklyn,Italian,2024-05-05,51,C,1,False,False
+1103,Restaurant 159,Staten Island,Italian,2021-07-15,23,B,4,False,False
+1104,Restaurant 77,Bronx,Pizza,2021-11-01,45,C,11,False,False
+1105,Restaurant 321,Brooklyn,Pizza,2022-08-26,58,A,8,False,False
+1106,Restaurant 193,Brooklyn,Mexican,2021-04-12,31,A,9,False,False
+1107,Restaurant 264,Brooklyn,Mexican,2022-01-01,18,A,9,False,False
+1108,Restaurant 61,Manhattan,Japanese,2024-06-06,50,B,8,False,False
+1109,Restaurant 37,Queens,Chinese,2021-01-15,8,A,5,False,False
+1110,Restaurant 72,Manhattan,Indian,2021-03-24,45,A,9,False,False
+1111,Restaurant 155,Manhattan,American,2024-03-22,19,C,3,False,False
+1112,Restaurant 339,Staten Island,Japanese,2021-10-24,28,A,7,False,False
+1113,Restaurant 280,Bronx,Pizza,2024-07-11,55,A,4,False,False
+1114,Restaurant 112,Manhattan,Mexican,2021-10-16,18,A,9,False,False
+1115,Restaurant 64,Queens,Indian,2024-07-27,3,C,6,True,False
+1116,Restaurant 319,Queens,Italian,2022-01-16,44,A,11,False,False
+1117,Restaurant 131,Manhattan,Indian,2024-01-27,26,Not Yet Graded,10,False,False
+1118,Restaurant 203,Brooklyn,Italian,2023-08-25,48,Not Yet Graded,1,False,False
+1119,Restaurant 42,Brooklyn,Italian,2022-07-13,42,B,8,False,False
+1120,Restaurant 276,Bronx,Italian,2023-03-14,27,A,2,False,False
+1121,Restaurant 142,Queens,Chinese,2023-02-12,34,A,0,False,False
+1122,Restaurant 231,Manhattan,Indian,2024-11-25,18,C,6,True,False
+1123,Restaurant 327,Manhattan,Mexican,2024-01-05,54,A,6,False,False
+1124,Restaurant 100,Manhattan,Indian,2023-05-26,7,C,1,False,False
+1125,Restaurant 337,Staten Island,Pizza,2022-05-06,42,A,6,False,False
+1126,Restaurant 273,Manhattan,Japanese,2021-10-06,5,Not Yet Graded,6,False,False
+1127,Restaurant 197,Manhattan,Chinese,2022-07-18,3,C,10,False,False
+1128,Restaurant 216,Bronx,Italian,2021-11-11,6,C,9,False,False
+1129,Restaurant 65,Bronx,Indian,2023-12-21,26,A,6,False,False
+1130,Restaurant 182,Staten Island,Chinese,2022-09-17,5,A,2,False,False
+1131,Restaurant 7,Queens,Pizza,2023-10-25,28,B,9,False,False
+1132,Restaurant 221,Queens,Japanese,2024-05-14,55,C,8,False,False
+1133,Restaurant 123,Manhattan,Chinese,2023-02-03,37,A,4,False,False
+1134,Restaurant 102,Manhattan,Japanese,2023-10-04,10,A,3,False,False
+1135,Restaurant 290,Bronx,Italian,2021-06-12,28,C,2,False,False
+1136,Restaurant 62,Brooklyn,Japanese,2024-12-01,54,A,3,False,False
+1137,Restaurant 21,Staten Island,Mexican,2022-11-23,38,B,9,False,False
+1138,Restaurant 29,Queens,Mexican,2022-03-12,29,C,2,False,False
+1139,Restaurant 234,Staten Island,Pizza,2023-12-12,18,B,2,False,False
+1140,Restaurant 60,Bronx,Indian,2022-09-05,45,A,9,False,False
+1141,Restaurant 105,Bronx,Japanese,2021-06-27,14,A,7,False,False
+1142,Restaurant 270,Bronx,Japanese,2021-03-06,40,A,6,False,False
+1143,Restaurant 119,Bronx,American,2023-11-15,11,A,1,False,False
+1144,Restaurant 144,Brooklyn,Italian,2023-02-06,59,A,2,False,False
+1145,Restaurant 74,Staten Island,Japanese,2021-12-14,15,A,7,False,False
+1146,Restaurant 140,Manhattan,Japanese,2024-03-23,26,C,6,True,False
+1147,Restaurant 80,Queens,Italian,2024-02-20,32,C,5,False,False
+1148,Restaurant 17,Staten Island,Japanese,2023-07-14,17,B,11,False,False
+1149,Restaurant 319,Bronx,American,2023-01-20,15,Not Yet Graded,11,False,False
+1150,Restaurant 231,Queens,Pizza,2023-10-17,5,A,9,False,False
+1151,Restaurant 106,Brooklyn,Chinese,2023-12-20,17,A,6,False,False
+1152,Restaurant 286,Staten Island,Italian,2023-04-15,23,B,3,False,False
+1153,Restaurant 76,Queens,Japanese,2021-02-18,47,B,8,False,False
+1154,Restaurant 22,Bronx,Chinese,2021-02-08,53,B,9,False,False
+1155,Restaurant 116,Brooklyn,Italian,2021-04-01,11,A,9,False,False
+1156,Restaurant 143,Staten Island,Indian,2021-06-02,31,A,5,False,False
+1157,Restaurant 54,Bronx,Indian,2023-03-09,57,B,2,False,False
+1158,Restaurant 344,Queens,American,2024-09-02,33,B,7,False,False
+1159,Restaurant 26,Manhattan,Mexican,2021-11-23,59,A,6,False,False
+1160,Restaurant 29,Bronx,Pizza,2021-12-01,29,B,4,False,False
+1161,Restaurant 173,Staten Island,Mexican,2021-08-12,35,A,9,False,False
+1162,Restaurant 341,Manhattan,Pizza,2022-05-08,10,B,11,False,False
+1163,Restaurant 175,Queens,American,2021-08-16,48,A,11,False,False
+1164,Restaurant 252,Staten Island,Pizza,2024-06-07,12,A,6,False,False
+1165,Restaurant 279,Manhattan,Indian,2023-09-21,4,A,4,False,False
+1166,Restaurant 186,Staten Island,Mexican,2024-04-04,13,A,8,False,False
+1167,Restaurant 23,Staten Island,Japanese,2024-09-12,1,A,0,False,False
+1168,Restaurant 192,Manhattan,Pizza,2021-06-09,32,B,6,False,False
+1169,Restaurant 105,Bronx,Japanese,2021-12-04,44,A,7,False,False
+1170,Restaurant 78,Bronx,Italian,2024-03-16,28,A,1,False,False
+1171,Restaurant 288,Queens,Indian,2021-11-21,31,A,11,False,False
+1172,Restaurant 276,Manhattan,Japanese,2023-02-18,36,B,6,True,False
+1173,Restaurant 65,Staten Island,Mexican,2021-05-27,30,B,7,False,False
+1174,Restaurant 329,Manhattan,Pizza,2022-06-26,39,B,3,False,False
+1175,Restaurant 158,Manhattan,Indian,2021-04-14,20,B,3,False,False
+1176,Restaurant 295,Staten Island,Chinese,2021-04-05,11,A,6,True,False
+1177,Restaurant 240,Queens,Chinese,2022-09-17,41,A,4,False,False
+1178,Restaurant 158,Brooklyn,Mexican,2021-08-04,23,B,10,False,False
+1179,Restaurant 148,Manhattan,Japanese,2021-10-22,19,A,7,False,False
+1180,Restaurant 128,Queens,Mexican,2021-06-03,8,A,1,False,False
+1181,Restaurant 342,Manhattan,Chinese,2024-07-12,43,A,11,False,False
+1182,Restaurant 308,Queens,Pizza,2022-07-25,26,A,2,False,False
+1183,Restaurant 11,Queens,Japanese,2021-05-10,27,A,8,False,False
+1184,Restaurant 20,Queens,Chinese,2023-02-26,54,A,3,False,False
+1185,Restaurant 282,Brooklyn,Chinese,2023-02-15,24,A,6,False,False
+1186,Restaurant 26,Staten Island,Chinese,2024-01-10,2,A,5,False,False
+1187,Restaurant 135,Brooklyn,American,2021-05-26,36,Not Yet Graded,6,False,False
+1188,Restaurant 24,Bronx,Japanese,2024-04-02,53,C,5,False,False
+1189,Restaurant 269,Brooklyn,Italian,2024-05-03,40,C,3,False,False
+1190,Restaurant 162,Brooklyn,American,2024-06-21,25,C,5,False,False
+1191,Restaurant 90,Manhattan,Japanese,2023-09-27,36,A,9,False,False
+1192,Restaurant 324,Queens,Chinese,2024-10-02,49,C,4,False,False
+1193,Restaurant 209,Manhattan,Mexican,2022-04-25,17,C,2,False,False
+1194,Restaurant 172,Queens,Chinese,2022-06-21,6,C,7,False,False
+1195,Restaurant 325,Brooklyn,American,2022-11-07,40,C,6,True,False
+1196,Restaurant 247,Manhattan,Italian,2023-05-24,35,B,1,False,False
+1197,Restaurant 164,Brooklyn,Italian,2023-09-04,22,A,8,False,False
+1198,Restaurant 187,Manhattan,American,2024-02-05,15,B,5,False,False
+1199,Restaurant 7,Manhattan,Mexican,2024-11-17,7,B,7,False,False
+1200,Restaurant 295,Manhattan,Italian,2021-01-06,42,A,4,False,False
+1201,Restaurant 173,Staten Island,Japanese,2023-08-06,11,B,0,False,False
+1202,Restaurant 255,Staten Island,Pizza,2024-11-12,59,A,3,False,False
+1203,Restaurant 221,Staten Island,Pizza,2021-04-08,4,A,7,False,False
+1204,Restaurant 321,Staten Island,Italian,2021-02-06,44,A,6,False,False
+1205,Restaurant 110,Staten Island,Italian,2023-07-18,25,A,6,False,False
+1206,Restaurant 255,Manhattan,Italian,2024-02-11,59,A,10,False,False
+1207,Restaurant 100,Bronx,Mexican,2024-01-08,30,C,11,False,False
+1208,Restaurant 240,Staten Island,Italian,2023-10-07,20,A,4,False,False
+1209,Restaurant 201,Manhattan,Indian,2021-01-08,50,A,4,False,False
+1210,Restaurant 262,Staten Island,American,2022-03-27,31,B,3,False,True
+1211,Restaurant 214,Queens,Japanese,2023-07-21,45,A,6,False,False
+1212,Restaurant 238,Queens,Chinese,2022-02-02,55,B,11,False,False
+1213,Restaurant 293,Manhattan,Pizza,2022-10-02,43,B,5,False,False
+1214,Restaurant 113,Manhattan,Italian,2023-06-05,11,Not Yet Graded,2,False,False
+1215,Restaurant 21,Manhattan,American,2021-08-08,34,B,0,False,False
+1216,Restaurant 212,Manhattan,Japanese,2024-03-06,58,B,8,False,False
+1217,Restaurant 104,Brooklyn,Mexican,2022-01-22,51,A,11,False,False
+1218,Restaurant 330,Staten Island,Pizza,2022-10-22,13,B,1,False,False
+1219,Restaurant 68,Manhattan,Pizza,2023-10-19,53,A,6,True,False
+1220,Restaurant 270,Staten Island,Japanese,2021-07-22,16,C,10,False,False
+1221,Restaurant 42,Bronx,American,2021-05-05,21,A,6,False,False
+1222,Restaurant 152,Manhattan,Pizza,2023-08-14,54,B,6,True,False
+1223,Restaurant 318,Queens,Japanese,2022-07-01,31,B,1,False,True
+1224,Restaurant 185,Manhattan,Mexican,2022-02-18,36,A,11,False,False
+1225,Restaurant 84,Brooklyn,Mexican,2021-07-19,1,B,8,False,False
+1226,Restaurant 35,Manhattan,American,2023-02-17,39,B,8,False,False
+1227,Restaurant 133,Manhattan,Japanese,2024-05-06,31,A,10,False,True
+1228,Restaurant 268,Bronx,Pizza,2022-12-26,49,A,11,False,False
+1229,Restaurant 247,Bronx,Italian,2021-05-09,8,B,3,False,False
+1230,Restaurant 270,Manhattan,American,2024-11-26,22,C,2,False,False
+1231,Restaurant 250,Queens,American,2024-11-15,17,A,2,False,False
+1232,Restaurant 163,Brooklyn,American,2023-04-08,42,C,10,False,False
+1233,Restaurant 60,Staten Island,Pizza,2024-12-06,25,A,9,False,False
+1234,Restaurant 79,Bronx,Pizza,2021-02-08,33,C,6,False,False
+1235,Restaurant 100,Brooklyn,Mexican,2023-09-02,34,C,3,False,False
+1236,Restaurant 54,Bronx,Japanese,2021-02-26,21,B,4,False,False
+1237,Restaurant 63,Manhattan,Japanese,2023-07-01,1,B,0,False,False
+1238,Restaurant 164,Brooklyn,American,2023-10-04,33,A,10,False,False
+1239,Restaurant 142,Manhattan,Mexican,2022-07-03,30,A,1,False,False
+1240,Restaurant 138,Staten Island,Indian,2023-10-05,11,A,6,False,False
+1241,Restaurant 106,Staten Island,Chinese,2024-03-21,45,A,6,True,False
+1242,Restaurant 13,Bronx,Japanese,2023-09-15,4,C,9,False,False
+1243,Restaurant 321,Queens,Italian,2024-10-27,35,C,1,False,False
+1244,Restaurant 77,Bronx,American,2022-02-22,38,A,3,False,False
+1245,Restaurant 76,Brooklyn,Indian,2024-06-20,34,A,11,False,False
+1246,Restaurant 297,Brooklyn,Indian,2022-08-17,46,A,6,False,False
+1247,Restaurant 256,Staten Island,Italian,2024-06-16,12,A,3,False,False
+1248,Restaurant 263,Brooklyn,Indian,2021-06-07,3,B,1,False,False
+1249,Restaurant 78,Queens,Chinese,2023-11-07,45,A,0,False,False
+1250,Restaurant 265,Brooklyn,Chinese,2023-05-17,35,B,4,False,False
+1251,Restaurant 112,Brooklyn,Mexican,2022-09-15,57,A,3,False,False
+1252,Restaurant 295,Queens,Mexican,2021-01-12,55,A,1,False,False
+1253,Restaurant 96,Brooklyn,Mexican,2021-06-15,7,A,6,True,False
+1254,Restaurant 78,Brooklyn,Indian,2021-07-27,11,B,1,False,False
+1255,Restaurant 197,Queens,American,2023-08-09,55,A,6,True,False
+1256,Restaurant 138,Queens,Indian,2022-02-23,8,A,3,False,False
+1257,Restaurant 248,Queens,Pizza,2023-05-16,7,B,4,False,False
+1258,Restaurant 319,Queens,Pizza,2024-03-18,40,A,1,False,False
+1259,Restaurant 285,Bronx,Japanese,2022-12-05,7,C,9,False,False
+1260,Restaurant 69,Brooklyn,Chinese,2023-12-25,0,B,11,False,False
+1261,Restaurant 190,Staten Island,Chinese,2021-04-26,59,A,6,False,False
+1262,Restaurant 77,Bronx,Pizza,2021-01-21,36,B,6,True,False
+1263,Restaurant 326,Manhattan,Indian,2024-07-02,47,B,10,False,False
+1264,Restaurant 342,Bronx,Indian,2021-08-16,28,B,6,True,False
+1265,Restaurant 39,Brooklyn,American,2024-10-26,29,B,1,False,False
+1266,Restaurant 123,Bronx,Mexican,2024-01-11,34,A,4,False,False
+1267,Restaurant 23,Brooklyn,Chinese,2023-07-18,31,A,4,False,True
+1268,Restaurant 136,Bronx,Pizza,2021-11-14,27,A,7,False,False
+1269,Restaurant 215,Queens,Chinese,2021-02-07,50,A,10,False,False
+1270,Restaurant 228,Manhattan,Japanese,2021-10-15,31,Not Yet Graded,7,False,True
+1271,Restaurant 118,Manhattan,Japanese,2021-10-21,14,B,3,False,False
+1272,Restaurant 280,Staten Island,Pizza,2024-01-08,54,A,1,False,False
+1273,Restaurant 60,Brooklyn,Italian,2024-09-18,42,A,2,False,False
+1274,Restaurant 132,Bronx,Indian,2024-04-27,27,B,9,False,False
+1275,Restaurant 116,Manhattan,Indian,2023-02-12,16,C,10,False,False
+1276,Restaurant 177,Bronx,Japanese,2023-03-13,3,A,6,True,False
+1277,Restaurant 142,Bronx,Japanese,2021-08-09,42,A,5,False,False
+1278,Restaurant 116,Staten Island,Japanese,2022-01-20,27,A,7,False,False
+1279,Restaurant 189,Manhattan,Indian,2022-09-10,59,Not Yet Graded,8,False,False
+1280,Restaurant 2,Bronx,Japanese,2022-12-20,48,A,10,False,False
+1281,Restaurant 213,Manhattan,Mexican,2023-02-16,41,B,3,False,False
+1282,Restaurant 323,Bronx,Mexican,2022-03-03,31,A,1,False,True
+1283,Restaurant 341,Queens,Chinese,2021-04-23,31,A,3,False,True
+1284,Restaurant 243,Bronx,Pizza,2021-03-04,27,A,6,False,False
+1285,Restaurant 157,Staten Island,Chinese,2023-12-22,21,B,3,False,False
+1286,Restaurant 121,Bronx,American,2024-09-02,7,A,9,False,False
+1287,Restaurant 69,Manhattan,Italian,2021-03-14,41,A,3,False,False
+1288,Restaurant 49,Brooklyn,Chinese,2023-05-15,41,A,3,False,False
+1289,Restaurant 12,Brooklyn,Italian,2021-02-04,11,A,8,False,False
+1290,Restaurant 203,Brooklyn,Italian,2024-02-26,22,A,3,False,False
+1291,Restaurant 118,Manhattan,Italian,2024-12-15,1,C,5,False,False
+1292,Restaurant 23,Staten Island,Italian,2022-10-20,31,A,9,False,True
+1293,Restaurant 33,Staten Island,Mexican,2021-03-13,13,A,6,False,False
+1294,Restaurant 309,Staten Island,Chinese,2024-06-19,44,B,9,False,False
+1295,Restaurant 311,Manhattan,Italian,2023-07-26,2,A,10,False,False
+1296,Restaurant 112,Brooklyn,Pizza,2022-05-04,7,B,5,False,False
+1297,Restaurant 5,Manhattan,Mexican,2023-06-09,31,C,5,False,True
+1298,Restaurant 322,Queens,Mexican,2023-11-04,57,A,8,False,False
+1299,Restaurant 302,Staten Island,Italian,2023-12-11,6,A,9,False,False
+1300,Restaurant 284,Brooklyn,Pizza,2021-07-02,43,B,3,False,False
+1301,Restaurant 250,Manhattan,Japanese,2022-10-02,51,A,8,False,False
+1302,Restaurant 323,Bronx,Chinese,2024-12-09,54,B,6,True,False
+1303,Restaurant 113,Brooklyn,Japanese,2021-01-19,2,A,9,False,False
+1304,Unknown,Queens,Italian,2021-11-01,2,C,5,False,False
+1305,Restaurant 276,Brooklyn,Japanese,2024-10-27,5,A,5,False,False
+1306,Restaurant 131,Queens,Mexican,2022-10-06,49,B,6,False,False
+1307,Restaurant 245,Brooklyn,American,2021-12-24,47,A,7,False,False
+1308,Restaurant 262,Bronx,American,2023-08-27,51,A,5,False,False
+1309,Restaurant 283,Queens,Mexican,2023-11-21,36,C,7,False,False
+1310,Restaurant 185,Queens,Pizza,2023-02-26,6,A,5,False,False
+1311,Restaurant 18,Manhattan,Italian,2023-10-05,37,B,3,False,False
+1312,Restaurant 156,Brooklyn,American,2021-11-13,28,A,1,False,False
+1313,Restaurant 182,Manhattan,Pizza,2024-08-14,32,B,10,False,False
+1314,Restaurant 275,Staten Island,Mexican,2021-04-25,50,A,1,False,False
+1315,Restaurant 287,Bronx,Chinese,2024-05-25,2,B,9,False,False
+1316,Restaurant 136,Brooklyn,Japanese,2022-12-16,19,A,2,False,False
+1317,Restaurant 153,Brooklyn,Italian,2021-07-03,31,A,2,False,True
+1318,Restaurant 181,Bronx,Pizza,2024-04-08,36,A,8,False,False
+1319,Restaurant 158,Queens,American,2024-03-03,46,A,11,False,False
+1320,Restaurant 107,Manhattan,Japanese,2023-01-04,12,A,8,False,False
+1321,Restaurant 264,Brooklyn,Chinese,2024-07-06,25,A,3,False,False
+1322,Restaurant 236,Staten Island,Italian,2022-03-07,12,B,11,False,False
+1323,Restaurant 133,Staten Island,Japanese,2022-05-09,44,C,6,False,False
+1324,Restaurant 1,Manhattan,American,2022-12-17,29,A,2,False,False
+1325,Restaurant 210,Bronx,Chinese,2022-12-01,59,A,10,False,False
+1326,Restaurant 188,Manhattan,Chinese,2023-11-05,19,B,10,False,False
+1327,Restaurant 298,Brooklyn,American,2024-09-23,48,B,5,False,False
+1328,Restaurant 213,Brooklyn,Indian,2023-07-25,45,B,5,False,False
+1329,Restaurant 253,Bronx,Indian,2021-02-20,27,A,3,False,False
+1330,Restaurant 300,Manhattan,Mexican,2022-04-08,27,A,1,False,False
+1331,Restaurant 345,Queens,American,2021-03-18,48,A,7,False,False
+1332,Restaurant 231,Staten Island,Japanese,2021-12-18,29,B,5,False,False
+1333,Restaurant 79,Bronx,Chinese,2021-09-09,31,A,0,False,False
+1334,Restaurant 190,Bronx,Japanese,2021-04-14,31,A,6,True,True
+1335,Restaurant 159,Bronx,Indian,2024-07-06,56,A,11,False,False
+1336,Restaurant 150,Manhattan,Japanese,2024-07-20,37,A,6,False,False
+1337,Restaurant 222,Bronx,Mexican,2021-06-20,37,A,6,True,False
+1338,Restaurant 153,Brooklyn,Indian,2024-11-07,38,Not Yet Graded,0,False,False
+1339,Restaurant 99,Queens,Pizza,2022-12-02,50,C,8,False,False
+1340,Restaurant 310,Bronx,American,2021-08-19,56,A,1,False,False
+1341,Restaurant 39,Queens,Indian,2021-05-20,31,A,10,False,True
+1342,Restaurant 80,Manhattan,Pizza,2024-08-14,50,A,11,False,False
+1343,Restaurant 217,Manhattan,Pizza,2021-03-15,32,B,4,False,False
+1344,Restaurant 185,Queens,Japanese,2023-05-05,30,A,4,False,False
+1345,Restaurant 231,Queens,Pizza,2022-03-15,10,B,9,False,False
+1346,Restaurant 277,Queens,Mexican,2022-08-11,2,A,11,False,False
+1347,Restaurant 65,Brooklyn,Japanese,2024-11-08,12,C,5,False,False
+1348,Restaurant 40,Manhattan,Indian,2022-04-15,59,A,11,False,False
+1349,Restaurant 121,Queens,Indian,2022-12-15,11,A,6,True,False
+1350,Restaurant 69,Staten Island,Indian,2022-01-16,41,A,2,False,False
+1351,Restaurant 47,Queens,Pizza,2024-04-01,59,A,6,True,False
+1352,Restaurant 296,Queens,American,2022-09-03,10,C,9,False,False
+1353,Restaurant 54,Brooklyn,American,2021-04-15,59,B,3,False,False
+1354,Restaurant 313,Brooklyn,Chinese,2022-08-19,18,C,4,False,False
+1355,Restaurant 179,Bronx,Chinese,2021-07-11,48,C,9,False,False
+1356,Restaurant 235,Staten Island,Mexican,2021-09-12,15,A,5,False,False
+1357,Restaurant 157,Brooklyn,Chinese,2024-09-19,18,Not Yet Graded,1,False,False
+1358,Restaurant 230,Brooklyn,Indian,2023-06-27,54,B,6,True,False
+1359,Restaurant 153,Bronx,Indian,2022-09-03,9,A,3,False,False
+1360,Restaurant 189,Manhattan,Indian,2021-02-06,28,A,3,False,False
+1361,Restaurant 180,Staten Island,American,2023-02-26,39,C,5,False,False
+1362,Restaurant 181,Bronx,Pizza,2023-05-24,36,B,3,False,False
+1363,Restaurant 208,Staten Island,American,2023-10-14,59,A,0,False,False
+1364,Restaurant 150,Manhattan,American,2023-08-11,7,B,6,True,False
+1365,Restaurant 185,Queens,American,2021-12-07,3,A,6,False,False
+1366,Restaurant 19,Manhattan,Pizza,2023-04-15,4,B,0,False,False
+1367,Restaurant 87,Staten Island,American,2022-08-04,38,Not Yet Graded,9,False,False
+1368,Restaurant 326,Bronx,Pizza,2022-12-27,43,A,2,False,False
+1369,Restaurant 25,Brooklyn,American,2023-12-04,59,B,10,False,False
+1370,Restaurant 25,Staten Island,Italian,2023-01-15,36,A,2,False,False
+1371,Restaurant 125,Brooklyn,Mexican,2021-04-19,5,Not Yet Graded,6,True,False
+1372,Restaurant 64,Queens,Japanese,2024-07-05,33,B,6,True,False
+1373,Restaurant 341,Brooklyn,Indian,2021-08-18,33,B,9,False,False
+1374,Restaurant 185,Bronx,Chinese,2022-05-08,51,C,0,False,False
+1375,Restaurant 296,Staten Island,Mexican,2024-08-06,30,C,9,False,False
+1376,Restaurant 174,Staten Island,Japanese,2023-11-03,45,C,6,True,False
+1377,Restaurant 328,Staten Island,American,2021-08-22,31,A,10,False,True
+1378,Restaurant 318,Queens,Pizza,2021-07-22,11,B,4,False,False
+1379,Restaurant 105,Bronx,Mexican,2021-11-02,42,A,0,False,False
+1380,Restaurant 219,Staten Island,Chinese,2024-06-26,31,B,9,False,True
+1381,Restaurant 317,Queens,Indian,2021-09-11,3,A,7,False,False
+1382,Restaurant 328,Staten Island,Italian,2021-10-14,31,A,9,False,True
+1383,Restaurant 30,Brooklyn,Japanese,2022-10-16,56,B,6,True,False
+1384,Restaurant 205,Manhattan,Pizza,2023-09-20,41,A,10,False,False
+1385,Restaurant 342,Queens,American,2023-11-04,46,A,6,False,False
+1386,Restaurant 149,Bronx,Chinese,2022-03-06,53,A,6,False,False
+1387,Restaurant 106,Staten Island,Chinese,2021-10-01,32,B,5,False,False
+1388,Restaurant 296,Bronx,Japanese,2024-06-25,31,A,4,False,True
+1389,Restaurant 306,Queens,Indian,2023-12-15,42,B,6,True,False
+1390,Restaurant 5,Brooklyn,Indian,2023-06-07,30,A,1,False,False
+1391,Restaurant 281,Staten Island,Japanese,2022-03-09,22,C,3,False,False
+1392,Restaurant 110,Bronx,Mexican,2022-09-01,54,B,10,False,False
+1393,Restaurant 116,Queens,American,2023-06-18,8,C,7,False,False
+1394,Restaurant 62,Queens,American,2024-01-18,59,A,0,False,False
+1395,Restaurant 314,Brooklyn,Japanese,2023-03-11,58,B,2,False,False
+1396,Restaurant 40,Bronx,Pizza,2024-01-10,52,A,5,False,False
+1397,Restaurant 156,Manhattan,Mexican,2024-05-24,37,A,9,False,False
+1398,Restaurant 206,Staten Island,Pizza,2021-08-21,35,A,2,False,False
+1399,Restaurant 324,Staten Island,Japanese,2024-07-19,33,A,10,False,False
+1400,Restaurant 169,Manhattan,Italian,2024-03-01,25,A,11,False,False
+1401,Restaurant 247,Staten Island,Chinese,2021-01-13,43,B,10,False,False
+1402,Restaurant 269,Brooklyn,American,2024-05-02,38,C,7,False,False
+1403,Restaurant 322,Queens,American,2024-03-09,52,C,6,True,False
+1404,Restaurant 207,Manhattan,Indian,2023-02-10,47,B,2,False,False
+1405,Restaurant 309,Staten Island,Pizza,2021-03-05,2,A,3,False,False
+1406,Restaurant 225,Staten Island,Indian,2023-02-03,41,A,0,False,False
+1407,Restaurant 236,Staten Island,Mexican,2021-06-04,34,B,11,False,False
+1408,Restaurant 222,Bronx,Japanese,2021-06-17,19,A,11,False,False
+1409,Restaurant 19,Manhattan,Chinese,2021-06-02,31,A,3,False,True
+1410,Restaurant 263,Brooklyn,Mexican,2023-06-22,50,A,11,False,False
+1411,Restaurant 201,Brooklyn,Japanese,2022-08-22,24,A,4,False,False
+1412,Restaurant 157,Brooklyn,Italian,2022-02-19,16,A,11,False,False
+1413,Restaurant 17,Brooklyn,Japanese,2022-10-20,19,C,5,False,False
+1414,Restaurant 151,Brooklyn,Indian,2022-12-27,24,B,3,False,False
+1415,Restaurant 47,Staten Island,Mexican,2021-04-17,26,A,10,False,False
+1416,Restaurant 147,Queens,Mexican,2024-08-21,8,A,3,False,False
+1417,Restaurant 91,Bronx,Chinese,2024-05-21,24,C,6,True,False
+1418,Restaurant 238,Brooklyn,Indian,2021-01-03,1,A,5,False,False
+1419,Restaurant 322,Manhattan,Mexican,2022-05-18,21,B,6,True,False
+1420,Restaurant 113,Queens,Mexican,2023-03-08,55,A,0,False,False
+1421,Restaurant 225,Bronx,Italian,2021-10-08,56,A,7,False,False
+1422,Restaurant 77,Queens,Pizza,2021-09-13,52,A,6,True,False
+1423,Restaurant 325,Staten Island,American,2023-10-16,10,C,3,False,False
+1424,Restaurant 162,Staten Island,Italian,2023-03-19,43,B,6,False,False
+1425,Restaurant 78,Brooklyn,Mexican,2022-11-08,32,A,10,False,False
+1426,Restaurant 63,Staten Island,Japanese,2023-09-03,11,B,6,True,False
+1427,Restaurant 289,Staten Island,Japanese,2024-04-11,0,A,3,False,False
+1428,Restaurant 261,Bronx,Chinese,2021-12-15,43,A,6,False,False
+1429,Restaurant 98,Manhattan,Chinese,2024-05-07,56,A,5,False,False
+1430,Restaurant 182,Bronx,Indian,2022-05-24,31,B,9,False,False
+1431,Restaurant 211,Bronx,Italian,2021-04-07,49,Not Yet Graded,3,False,False
+1432,Restaurant 70,Queens,Chinese,2023-04-25,30,A,11,False,False
+1433,Restaurant 200,Queens,Chinese,2021-11-26,27,A,3,False,False
+1434,Restaurant 205,Staten Island,American,2023-06-06,23,C,3,False,False
+1435,Restaurant 251,Queens,Pizza,2024-10-10,39,A,8,False,False
+1436,Restaurant 134,Manhattan,Indian,2022-10-22,59,B,3,False,False
+1437,Restaurant 259,Staten Island,Indian,2021-09-20,56,A,1,False,False
+1438,Restaurant 74,Brooklyn,Italian,2023-08-22,22,B,11,False,False
+1439,Restaurant 204,Manhattan,Mexican,2024-08-09,46,A,1,False,False
+1440,Restaurant 194,Manhattan,Pizza,2022-09-14,31,C,11,False,True
+1441,Restaurant 59,Staten Island,Mexican,2021-02-12,20,A,5,False,False
+1442,Restaurant 284,Queens,Chinese,2021-04-24,31,A,11,False,False
+1443,Unknown,Brooklyn,Mexican,2023-09-06,28,A,6,True,False
+1444,Restaurant 207,Staten Island,Italian,2023-06-10,46,C,10,False,False
+1445,Restaurant 62,Brooklyn,American,2024-02-18,14,C,5,False,False
+1446,Restaurant 195,Queens,Mexican,2023-05-07,3,A,1,False,False
+1447,Restaurant 100,Queens,Indian,2022-05-07,21,A,7,False,False
+1448,Restaurant 78,Queens,Italian,2023-05-02,54,A,11,False,False
+1449,Restaurant 262,Staten Island,American,2021-01-12,24,A,7,False,False
+1450,Restaurant 289,Brooklyn,Japanese,2021-11-05,40,A,3,False,False
+1451,Restaurant 148,Bronx,Japanese,2024-10-26,56,B,6,False,False
+1452,Restaurant 108,Brooklyn,Japanese,2021-07-27,34,C,3,False,False
+1453,Restaurant 126,Staten Island,Mexican,2023-02-08,3,C,3,False,False
+1454,Unknown,Manhattan,Japanese,2024-12-13,35,A,6,True,False
+1455,Restaurant 76,Queens,Mexican,2022-07-04,18,C,4,False,False
+1456,Restaurant 104,Bronx,Italian,2024-01-21,19,C,6,True,False
+1457,Restaurant 211,Manhattan,Mexican,2021-09-10,31,A,8,False,False
+1458,Restaurant 186,Brooklyn,Japanese,2023-02-27,12,C,5,False,False
+1459,Restaurant 347,Brooklyn,Chinese,2024-01-10,10,A,6,True,False
+1460,Restaurant 314,Queens,Chinese,2021-05-17,57,A,5,False,False
+1461,Restaurant 36,Staten Island,Mexican,2022-05-06,25,A,2,False,False
+1462,Restaurant 115,Queens,Indian,2023-07-08,37,A,10,False,False
+1463,Restaurant 92,Staten Island,Italian,2021-08-02,25,A,3,False,False
+1464,Restaurant 348,Bronx,American,2022-02-24,25,B,8,False,False
+1465,Restaurant 115,Manhattan,Italian,2024-05-11,28,C,9,False,False
+1466,Restaurant 198,Bronx,Pizza,2024-02-05,18,A,6,False,False
+1467,Restaurant 213,Bronx,Mexican,2023-08-07,23,Not Yet Graded,3,False,False
+1468,Restaurant 263,Bronx,American,2024-03-26,0,A,11,False,False
+1469,Restaurant 122,Bronx,Italian,2021-06-03,32,A,7,False,False
+1470,Restaurant 187,Manhattan,Indian,2022-09-08,55,B,3,False,False
+1471,Restaurant 271,Bronx,Chinese,2022-09-16,14,C,6,True,False
+1472,Restaurant 105,Bronx,Italian,2021-08-18,45,B,10,False,False
+1473,Restaurant 228,Brooklyn,Japanese,2022-11-12,38,C,0,False,False
+1474,Restaurant 290,Queens,Mexican,2021-07-04,49,B,8,False,False
+1475,Restaurant 282,Bronx,Japanese,2021-03-11,11,A,5,False,False
+1476,Restaurant 136,Manhattan,Italian,2022-02-02,37,B,8,False,False
+1477,Restaurant 43,Queens,Japanese,2024-04-03,21,C,8,False,False
+1478,Restaurant 254,Brooklyn,Italian,2021-10-22,27,A,0,False,False
+1479,Restaurant 104,Staten Island,Pizza,2022-10-06,36,B,5,False,False
+1480,Restaurant 72,Bronx,Italian,2024-06-08,22,Not Yet Graded,9,False,False
+1481,Restaurant 23,Manhattan,Indian,2021-01-03,44,B,7,False,False
+1482,Restaurant 240,Manhattan,Japanese,2021-12-14,17,A,1,False,False
+1483,Restaurant 275,Brooklyn,Indian,2023-12-21,7,B,6,True,False
+1484,Restaurant 326,Brooklyn,Pizza,2023-09-14,54,A,10,False,False
+1485,Restaurant 113,Brooklyn,Pizza,2022-08-14,18,A,1,False,False
+1486,Restaurant 11,Manhattan,American,2021-06-20,47,B,7,False,False
+1487,Restaurant 62,Queens,Indian,2022-01-08,38,B,10,False,False
+1488,Restaurant 309,Staten Island,American,2022-10-13,50,C,8,False,False
+1489,Restaurant 1,Bronx,Italian,2023-09-17,26,Not Yet Graded,8,False,False
+1490,Restaurant 116,Brooklyn,Chinese,2022-09-08,39,A,7,False,False
+1491,Restaurant 36,Staten Island,Japanese,2023-01-04,36,C,0,False,False
+1492,Restaurant 2,Manhattan,Pizza,2023-05-17,40,B,5,False,False
+1493,Restaurant 332,Manhattan,Indian,2023-07-01,56,B,6,False,False
+1494,Restaurant 63,Queens,Mexican,2023-12-07,31,C,6,True,False
+1495,Restaurant 193,Queens,Indian,2022-08-24,2,B,11,False,False
+1496,Restaurant 212,Bronx,Chinese,2023-05-20,31,B,6,True,True
+1497,Restaurant 269,Brooklyn,Japanese,2022-07-08,58,B,6,True,False
+1498,Restaurant 249,Manhattan,Italian,2024-10-16,37,A,0,False,False
+1499,Restaurant 46,Queens,Indian,2024-10-05,21,C,6,False,False
+1500,Restaurant 6,Manhattan,Italian,2023-09-23,59,B,7,False,False
+1501,Restaurant 80,Queens,Pizza,2024-11-15,9,A,10,False,False
+1502,Restaurant 147,Bronx,Indian,2024-03-15,57,A,10,False,False
+1503,Restaurant 204,Staten Island,Japanese,2024-10-18,3,A,5,False,False
+1504,Restaurant 293,Bronx,Mexican,2023-06-05,53,A,9,False,False
+1505,Restaurant 257,Bronx,Italian,2024-08-27,4,C,1,False,False
+1506,Restaurant 97,Manhattan,Japanese,2021-01-25,45,B,4,False,False
+1507,Restaurant 108,Staten Island,Indian,2021-12-07,4,Not Yet Graded,3,False,False
+1508,Restaurant 263,Brooklyn,Chinese,2022-03-25,44,A,8,False,False
+1509,Restaurant 330,Brooklyn,Indian,2024-03-27,21,C,8,False,False
+1510,Restaurant 248,Brooklyn,Pizza,2024-07-07,22,C,8,False,False
+1511,Restaurant 349,Queens,Japanese,2021-08-18,41,B,6,False,False
+1512,Restaurant 139,Bronx,Indian,2023-10-23,44,B,0,False,False
+1513,Restaurant 225,Bronx,Japanese,2022-05-09,31,A,5,False,False
+1514,Restaurant 252,Queens,Mexican,2023-05-19,28,B,3,False,False
+1515,Restaurant 81,Manhattan,Pizza,2024-04-17,30,A,1,False,False
+1516,Restaurant 311,Staten Island,Indian,2024-12-07,57,A,0,False,False
+1517,Restaurant 156,Queens,Chinese,2024-09-16,36,B,1,False,False
+1518,Restaurant 45,Bronx,Mexican,2021-07-17,34,A,2,False,False
+1519,Restaurant 75,Brooklyn,Japanese,2022-02-21,57,A,10,False,False
+1520,Restaurant 206,Queens,Mexican,2024-12-02,41,B,6,True,False
+1521,Restaurant 291,Bronx,Japanese,2024-04-10,16,A,11,False,False
+1522,Restaurant 219,Brooklyn,Indian,2023-06-19,47,A,3,False,False
+1523,Restaurant 196,Queens,Japanese,2024-09-11,38,A,2,False,False
+1524,Restaurant 199,Brooklyn,Indian,2022-10-25,50,A,6,False,False
+1525,Restaurant 233,Bronx,Pizza,2022-03-18,14,A,6,True,False
+1526,Restaurant 191,Brooklyn,Pizza,2021-03-07,4,B,9,False,False
+1527,Restaurant 104,Brooklyn,Italian,2023-10-10,32,A,10,False,False
+1528,Restaurant 175,Brooklyn,Indian,2023-07-26,37,A,5,False,False
+1529,Restaurant 163,Staten Island,Indian,2022-10-14,22,C,6,False,False
+1530,Restaurant 55,Manhattan,Indian,2024-12-19,58,B,0,False,False
+1531,Restaurant 346,Manhattan,Japanese,2023-02-18,44,C,9,False,False
+1532,Restaurant 53,Queens,Chinese,2022-11-27,25,A,10,False,False
+1533,Restaurant 288,Queens,Mexican,2022-05-23,0,B,5,False,False
+1534,Restaurant 176,Manhattan,Italian,2021-08-16,46,A,9,False,False
+1535,Restaurant 99,Manhattan,American,2021-04-16,19,A,5,False,False
+1536,Restaurant 5,Manhattan,Italian,2023-01-06,42,C,0,False,False
+1537,Restaurant 240,Staten Island,Mexican,2021-02-02,14,A,8,False,False
+1538,Restaurant 131,Manhattan,Italian,2021-04-23,22,C,5,False,False
+1539,Unknown,Brooklyn,Indian,2023-05-02,5,Not Yet Graded,6,False,False
+1540,Restaurant 302,Brooklyn,Mexican,2023-07-07,7,A,0,False,False
+1541,Restaurant 117,Bronx,Japanese,2023-03-24,15,Not Yet Graded,9,False,False
+1542,Restaurant 55,Queens,Chinese,2023-10-20,41,C,9,False,False
+1543,Restaurant 295,Queens,Italian,2021-01-09,31,C,3,False,True
+1544,Restaurant 312,Bronx,Japanese,2022-07-11,58,A,5,False,False
+1545,Restaurant 207,Brooklyn,American,2023-08-19,25,C,1,False,False
+1546,Restaurant 92,Bronx,Italian,2021-02-12,12,A,9,False,False
+1547,Restaurant 19,Queens,Mexican,2022-05-03,33,B,6,True,False
+1548,Restaurant 182,Manhattan,Japanese,2023-10-07,22,A,4,False,False
+1549,Restaurant 156,Brooklyn,Italian,2023-03-13,33,A,5,False,False
+1550,Restaurant 287,Brooklyn,American,2022-07-27,4,C,2,False,False
+1551,Restaurant 277,Queens,Chinese,2024-03-06,37,C,5,False,False
+1552,Restaurant 345,Bronx,Italian,2023-01-13,28,A,2,False,False
+1553,Restaurant 27,Queens,Chinese,2022-01-01,48,A,8,False,False
+1554,Restaurant 148,Manhattan,Japanese,2021-07-22,16,C,4,False,False
+1555,Restaurant 311,Staten Island,Japanese,2024-12-18,56,C,3,False,False
+1556,Restaurant 295,Queens,Chinese,2021-01-05,43,C,0,False,False
+1557,Restaurant 333,Manhattan,Italian,2023-12-07,3,B,4,False,False
+1558,Restaurant 131,Manhattan,Japanese,2021-08-12,34,A,10,False,False
+1559,Restaurant 133,Queens,Mexican,2023-05-13,35,C,3,False,False
+1560,Restaurant 176,Queens,Indian,2024-04-24,46,A,1,False,False
+1561,Restaurant 178,Queens,Italian,2023-08-12,55,A,2,False,False
+1562,Restaurant 98,Manhattan,Pizza,2023-11-07,42,A,1,False,False
+1563,Restaurant 305,Queens,Indian,2024-05-06,11,Not Yet Graded,1,False,False
+1564,Restaurant 132,Bronx,Japanese,2024-02-09,47,C,6,True,False
+1565,Restaurant 54,Manhattan,Japanese,2022-01-11,57,A,6,False,False
+1566,Restaurant 187,Manhattan,American,2024-09-19,7,B,9,False,False
+1567,Restaurant 81,Brooklyn,Mexican,2023-11-15,8,A,10,False,False
+1568,Restaurant 110,Brooklyn,Japanese,2024-01-05,41,A,8,False,False
+1569,Restaurant 40,Brooklyn,Chinese,2023-03-06,29,B,11,False,False
+1570,Restaurant 79,Brooklyn,Indian,2023-08-26,2,B,10,False,False
+1571,Restaurant 238,Queens,Italian,2022-05-19,2,A,9,False,False
+1572,Restaurant 257,Bronx,Pizza,2023-08-18,0,A,10,False,False
+1573,Restaurant 230,Queens,Mexican,2022-07-15,22,A,10,False,False
+1574,Restaurant 330,Bronx,Pizza,2024-03-05,45,B,5,False,False
+1575,Restaurant 119,Brooklyn,Pizza,2021-12-06,26,A,6,True,False
+1576,Restaurant 82,Manhattan,Chinese,2023-03-13,59,A,11,False,False
+1577,Restaurant 260,Manhattan,Chinese,2023-01-16,43,A,8,False,False
+1578,Restaurant 30,Staten Island,Italian,2023-11-18,9,A,1,False,False
+1579,Restaurant 42,Queens,Pizza,2023-04-19,43,C,6,False,False
+1580,Unknown,Bronx,Mexican,2024-08-17,45,C,8,False,False
+1581,Restaurant 90,Manhattan,Japanese,2023-04-22,19,A,11,False,False
+1582,Restaurant 141,Manhattan,American,2024-09-03,1,A,6,False,False
+1583,Restaurant 38,Queens,American,2023-04-12,25,A,10,False,False
+1584,Restaurant 119,Brooklyn,Italian,2024-08-15,31,C,7,False,True
+1585,Restaurant 237,Bronx,Indian,2024-04-22,13,B,6,True,False
+1586,Restaurant 135,Queens,Japanese,2023-12-25,44,A,3,False,False
+1587,Restaurant 176,Queens,Mexican,2022-06-12,22,B,9,False,False
+1588,Restaurant 297,Bronx,Japanese,2022-09-03,57,A,6,False,False
+1589,Restaurant 120,Queens,Pizza,2022-08-02,2,C,0,False,False
+1590,Restaurant 329,Brooklyn,Mexican,2022-05-13,35,C,3,False,False
+1591,Restaurant 200,Queens,Chinese,2024-06-12,37,A,5,False,False
+1592,Restaurant 55,Bronx,Pizza,2023-05-23,4,B,7,False,False
+1593,Restaurant 137,Queens,Italian,2021-02-10,25,A,9,False,False
+1594,Unknown,Queens,Indian,2021-04-17,8,A,6,True,False
+1595,Restaurant 127,Staten Island,American,2023-03-01,22,B,3,False,False
+1596,Restaurant 295,Manhattan,Japanese,2022-08-17,53,A,9,False,False
+1597,Restaurant 225,Brooklyn,Mexican,2022-11-27,16,A,6,False,False
+1598,Restaurant 71,Brooklyn,Japanese,2023-03-08,22,A,8,False,False
+1599,Restaurant 265,Brooklyn,Japanese,2023-07-21,4,B,2,False,False
